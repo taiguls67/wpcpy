@@ -1,2 +1,2 @@
 # wpcpy
-a tool to backup your Whatsapp chats
+a custom client for Whatsapp
